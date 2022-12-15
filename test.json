@@ -1,7 +1,7 @@
 {
     "Name": "Test",
     "Description": "Conflux beaver rapper 0 For test only",
-    "Image": "https://github.com/incloud02/metadata/blob/54a5ae289d274dab6f3c25298c5969372b37407c/logo.png",
+    "Image": "https://raw.githubusercontent.com/incloud02/metadata/main/logo.png",
     "token_id": "0",
     "type": "Beaver"
 }
