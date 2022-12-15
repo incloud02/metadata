@@ -1,7 +1,7 @@
 {
     "name": "Test-II",
     "description": "Conflux beaver rapper 0 For test only",
-    "image": "https://metadata.conflux.fun/images/kaozai/ConFiRapper0.png",
+    "image": "https://raw.githubusercontent.com/incloud02/metadata/main/logo.png",
     "token_id": "0",
     "type": "Beaver"
 }
