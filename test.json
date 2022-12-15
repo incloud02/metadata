@@ -1,6 +1,6 @@
 {
     "name": "CJP",
-    "description": "github要访问原始文件",
+    "description": "github要访问原始文件,sol要重新编译部署",
     "image": "https://raw.githubusercontent.com/incloud02/metadata/main/logo.png",
     "token_id": "0",
     "type": "hedgehog"
